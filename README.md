@@ -22,7 +22,8 @@ View all bookings for a particular route/train
 Simple text-based menu interface for ticketing officers
 
 ✅ Included in this repository
-23_ENG_140_01/
+
+Railway Management
 │
 ├── README.md                         # (this file)
 ├── NetBeansProject/                  # NetBeans project folder (source code)
@@ -37,7 +38,7 @@ Simple text-based menu interface for ticketing officers
 └──timetables.csv                    # initial timetable data (txt)
 
 
-Fields explanation:
+Field's explanation:
 
 train_id — unique train code used by the system
 
@@ -45,13 +46,13 @@ route — textual route name (used for filtering)
 
 total_seats / available_seats — integers used to check seat availability
 
-booking_id — unique booking identifier etc.
+booking_id — unique booking identifier, etc.
 
 ⚙️ Assumptions (made for implementation)
 
-System will be used only by Ticketing Officers (no direct public UI).
+The system will be used only by Ticketing Officers (no direct public UI).
 
-Booking limit per customer is max 4 seats.
+The booking limit per customer is max 4 seats.
 
 Seats are numbered within a train; the train's total_seats is fixed.
 
