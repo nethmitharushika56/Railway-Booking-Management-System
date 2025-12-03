@@ -1,0 +1,6 @@
+Route 	Time	Train Name	
+Colombo-Galle 6:10AM 8060
+Colombo-Galle 6:50AM 8050
+Colombo-Galle 8:35 AM 8040
+Colombo-Galle 10:30 AM Rajarata Rajina
+Colombo-Galle 6:17 PM 8766

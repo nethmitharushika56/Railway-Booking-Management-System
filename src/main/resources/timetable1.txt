@@ -1,0 +1,9 @@
+Route 	      Time    Train Name
+Colombo-Kandy 5:55am Podi Menike
+Colombo-Kandy 9:30pm 1009
+Colombo-Kandy 3:30pm Udarata Menike
+Colombo-Kandy 9:15pm 1019A
+Colombo-Kandy 6:10pm 1019
+Colombo-Kandy 7:30pm Tikiri Menike
+Colombo-Kandy 7:40pm 1029
+Colombo-Kandy 9:15pm 1035
