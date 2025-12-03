@@ -21,23 +21,25 @@ View all bookings for a particular route/train
 
 Simple text-based menu interface for ticketing officers
 
-✅ Included in this repository
+📂 Project Structure
 
-Railway Management
-│
-├── README.md                         # (this file)
-├── NetBeansProject/                  # NetBeans project folder (source code)
-│   └── src/
-│       └── main/
-│           └── java/
-│               └── com/railway/...
-│                   └── Main.java
-│                   └── model/*.java
-│                   └── io/*.java
-│                   └── service/*.java
-└──timetables.csv                    # initial timetable data (txt)
+This project is built using **Java** within the **NetBeans** environment. Below is the directory layout:
 
-
+```text
+Railway Management/
+├── README.md                   # Project documentation (this file)
+└── NetBeansProject/            # NetBeans project folder (source code)
+    └── src/
+        └── main/
+            └── java/
+                └── com/
+                    └── railway/
+                        ├── Main.java           # Entry point of the application
+                        ├── model/              # Data models (Classes)
+                        ├── io/                 # Input/Output handling
+                        ├── service/            # Business logic and services
+                        └── timetables.txt      # Initial timetable data
+````
 Field's explanation:
 
 train_id — unique train code used by the system
